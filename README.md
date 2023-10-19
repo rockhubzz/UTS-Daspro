@@ -1,8 +1,11 @@
 # UTS-Daspro
 Nama: Rocky Alessandro Kristanto
+
 NIM: 2341720197
 
 Hasil Output:
+
+```
 ===== Program Kasir =====
 
 Masukkan jenis barang (Makanan/Minuman): makanan
@@ -22,3 +25,4 @@ Jumlah minuman yang anda beli       : 1 buah
 Total harga belanjaan anda          : Rp. 39200.0
 Anda telah hemat                    : Rp. 0.0
 PPN                                 : Rp. 0.0
+```
